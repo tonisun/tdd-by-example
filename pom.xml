@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <name>tdd-by-example</name>
-    <description>Test Driven Development By Example</description>
+    <description>Test Driven Development By Example ToniSun</description>
 
     <organization>
         <name>Spring Framework Guru</name>
@@ -19,13 +19,13 @@
 
     <developers>
         <developer>
-            <id>jt</id>
-            <name>John Thompson</name>
-            <email>john@springframework.guru</email>
+            <id>tonisun</id>
+            <name>Toni Zeidler</name>
+            <email>toni.z@springframework.guru</email>
         </developer>
     </developers>
 
-    <inceptionYear>2018</inceptionYear>
+    <inceptionYear>2022</inceptionYear>
 
     <licenses>
         <license>
