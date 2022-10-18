@@ -1,4 +1,5 @@
 # Test Driven Development By Example - ToniSun
+![](src/main/resources/images/colorful-wall_sm_tra.png)
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
 
